@@ -4,4 +4,4 @@ Este pequeño grupo de compas nace con la intención de generar código de forma
 
 ¡Saludos! 🙂
 
-![rayshader CR](https://github.com/Tiribi-GeoDevs/.github/blob/main/file32d4623f5730.mp4)
+![alt-text](https://github.com/Tiribi-GeoDevs/.github/blob/main/ezgif.com-gif-maker.gif)
